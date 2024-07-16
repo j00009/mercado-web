@@ -1,0 +1,13 @@
+
+.navbar-brand {
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    width: 100%; 
+    color: white;
+}
+
+.fondo{
+    background-color: rgb(3, 189, 3);
+    padding: 10px;
+}
